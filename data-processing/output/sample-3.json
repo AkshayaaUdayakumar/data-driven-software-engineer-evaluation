@@ -1,0 +1,14 @@
+{
+    "emails": [
+        "NO_REPLY@EXAMPLE.COM"
+    ],
+    "phone_numbers": [
+        "(123) 456-7890"
+    ],
+    "dates": [],
+    "urls": [],
+    "ip_addresses": [],
+    "addresses": [],
+    "names": [],
+    "raw_text": "H e l l o \nI \u2019 m  Y o u r  N a m e\n123 YOUR STREET\nYOUR CITY, ST 12345\n(123) 456-7890\nNO_REPLY@EXAMPLE.COM\nS k i l l s\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi. Sed in consequat\nmi. Sed pulvinar lacinia felis eu \ufb01nibus.\nE x p e r i e n c e\nMONTH 20XX - PRESENT\nC o m p a n y  N a m e ,  L o c a t i o n\n-  J o b  T i t l e\n\u25cf\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\u25cf\nAenean ac interdum nisi. Sed in consequat mi.\n\u25cf\nSed in consequat mi, sed pulvinar lacinia felis eu \ufb01nibus.\nMONTH 20XX - MONTH 20XX\nC o m p a n y  N a m e ,  L o c a t i o n\n-  J o b  T i t l e\n\u25cf\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\u25cf\nAenean ac interdum nisi. Sed in consequat mi.\nMONTH 20XX - MONTH 20XX\nC o m p a n y  N a m e ,  L o c a t i o n\n-  J o b  T i t l e\n\u25cf\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\u25cf\nAenean ac interdum nisi. Sed in consequat mi.\n\u25cf\nSed pulvinar lacinia felis eu \ufb01nibus.\nE d u c a t i o n\nMONTH  20XX - MONTH 20XX\nC o l l e g e  N a m e ,  L o c a t i o n\n-  D e g r e e\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt\nut laoreet dolore.\nA w a r d s\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nAenean ac interdum nisi."
+}

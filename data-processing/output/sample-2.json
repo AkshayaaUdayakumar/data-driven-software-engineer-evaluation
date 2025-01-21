@@ -1,0 +1,23 @@
+{
+    "emails": [
+        "no_reply@example.com"
+    ],
+    "phone_numbers": [
+        "(123) 456-7890"
+    ],
+    "dates": [],
+    "urls": [],
+    "ip_addresses": [],
+    "addresses": [],
+    "names": [
+        "Your Name",
+        "Your Street",
+        "Your City",
+        "Ronny Reader",
+        "Company Name",
+        "Address St\nAnytown",
+        "Dear Ms",
+        "Your Name"
+    ],
+    "raw_text": "Your Name\n123 Your Street \nYour City, ST 12345 \n(123) 456-7890 \nno_reply@example.com\n4th September 20XX\nRonny Reader\nCEO, Company Name\n123 Address St\nAnytown, ST 12345\nDear Ms. Reader,\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy\nnibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi\nenim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis\nnisl ut aliquip ex ea commodo consequat.\nDuis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie\nconsequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.\nNam liber tempor cum soluta nobis eleifend option congue nihil imperdiet\ndoming id quod mazim placerat facer possim assum. Typi non habent\nclaritatem insitam; est usus legentis in iis qui facit eorum claritatem.\nInvestigationes demonstraverunt lectores legere me lius quod ii legunt\nsaepius.\nSincerely,\nYour Name\n"
+}
