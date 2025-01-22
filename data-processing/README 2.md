@@ -32,7 +32,7 @@ Text-Based and Scanned PDFs
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd pdf_processor
+   cd data-processing
 
 ## Commands to run 
 
